@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-21",
+  "channels": {
+    "portfolio": {
+      "enabled": true,
+      "label": "معرض الأعمال",
+      "url": "/portfolio/",
+      "external": false,
+      "category": "internal"
+    },
+    "whatsapp": {
+      "enabled": true,
+      "label": "واتساب",
+      "url": "https://wa.me/966511411028",
+      "phone": "+966511411028",
+      "external": true,
+      "category": "contact"
+    },
+    "phone": {
+      "enabled": true,
+      "label": "اتصال",
+      "url": "tel:+966511411028",
+      "phone": "+966511411028",
+      "external": false,
+      "category": "contact"
+    },
+    "instagram": {
+      "enabled": true,
+      "label": "إنستغرام",
+      "handle": "@mawkib.sa",
+      "url": "https://www.instagram.com/mawkib.sa/",
+      "external": true,
+      "category": "social"
+    },
+    "snapchat": {
+      "enabled": true,
+      "label": "سناب شات",
+      "handle": "@mawkib.sa",
+      "url": "https://www.snapchat.com/@mawkib.sa",
+      "external": true,
+      "category": "social"
+    },
+    "tiktok": {
+      "enabled": true,
+      "label": "تيك توك",
+      "handle": "@mawkib.sa",
+      "url": "https://www.tiktok.com/@mawkib.sa",
+      "external": true,
+      "category": "social"
+    },
+    "x": {
+      "enabled": true,
+      "label": "X",
+      "handle": "@mawkib_sa",
+      "url": "https://x.com/mawkib_sa",
+      "external": true,
+      "category": "social"
+    },
+    "facebook": {
+      "enabled": true,
+      "label": "فيسبوك",
+      "url": "https://www.facebook.com/profile.php?id=61593648261873",
+      "external": true,
+      "category": "social"
+    },
+    "youtube": {
+      "enabled": false,
+      "label": "يوتيوب",
+      "url": null,
+      "external": true,
+      "category": "social"
+    }
+  }
+}
